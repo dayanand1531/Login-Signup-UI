@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">M2dayanand</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signup"><u>Forgot Password?</u></string>
+    <string name="forget_password"><u> Sign up</u></string>
+    <string name="title_activity_hometab">Hometab</string>
+    <string name="tab_text_1">Message</string>
+    <string name="tab_text_2">Contact</string>
+</resources>
